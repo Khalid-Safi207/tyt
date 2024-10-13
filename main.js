@@ -102,7 +102,7 @@ function getSoruFromArray() {
 function checkSoru(id) {
 
     fetch("./JSONS/matematik.json").then((res) => res.json()).then((data) => {
-        if (id == data.questions[soruNum].correct_answer) {
+        if (id == sorular[soruNum].correct_answer) {
             dogruSes.play();
             document.getElementById(id).style.backgroundColor = "#00ff00";
             dogru++;
