@@ -4,7 +4,7 @@
     {
       "topic": "Temel Kavramlar",
       "difficulty": "Kolay",
-      "question": "./Images/Temel Kavramlar/1.png",
+      "question": "./Images/Temel Kavramlar/1.PNG",
       "options": {
         "A": "8",
         "B": "6",
@@ -17,7 +17,7 @@
     {
       "topic": "Temel Kavramlar",
       "difficulty": "Kolay",
-      "question": "./Images/Temel Kavramlar/2.png",
+      "question": "./Images/Temel Kavramlar/2.PNG",
       "options": {
         "A": "0",
         "B": "2/3",
@@ -30,7 +30,7 @@
     {
       "topic": "Temel Kavramlar",
       "difficulty": "Kolay",
-      "question": "./Images/Temel Kavramlar/3.png",
+      "question": "./Images/Temel Kavramlar/3.PNG",
       "options": {
         "A": "2852",
         "B": "2345",
@@ -43,7 +43,7 @@
     {
       "topic": "Temel Kavramlar",
       "difficulty": "Kolay",
-      "question": "./Images/Temel Kavramlar/4.png",
+      "question": "./Images/Temel Kavramlar/4.PNG",
       "options": {
         "A": "15",
         "B": "13",
@@ -56,7 +56,7 @@
     {
       "topic": "Temel Kavramlar",
       "difficulty": "Kolay",
-      "question": "./Images/Temel Kavramlar/5.png",
+      "question": "./Images/Temel Kavramlar/5.PNG",
       "options": {
         "A": "17",
         "B": "16",
@@ -69,7 +69,7 @@
     {
       "topic": "Temel Kavramlar",
       "difficulty": "Kolay",
-      "question": "./Images/Temel Kavramlar/6.png",
+      "question": "./Images/Temel Kavramlar/6.PNG",
       "options": {
         "A": "1",
         "B": "2",
@@ -82,7 +82,7 @@
     {
       "topic": "Temel Kavramlar",
       "difficulty": "Orta",
-      "question": "./Images/Temel Kavramlar/4.png",
+      "question": "./Images/Temel Kavramlar/4.PNG",
       "options": {
         "A": "0,001",
         "B": "0,05",
@@ -95,7 +95,7 @@
     {
       "topic": "Temel Kavramlar",
       "difficulty": "Orta",
-      "question": "./Images/Temel Kavramlar/8.png",
+      "question": "./Images/Temel Kavramlar/8.PNG",
       "options": {
         "A": "47",
         "B": "51",
@@ -108,7 +108,7 @@
     {
       "topic": "Temel Kavramlar",
       "difficulty": "Orta",
-      "question": "./Images/Temel Kavramlar/9.png",
+      "question": "./Images/Temel Kavramlar/9.PNG",
       "options": {
         "A": "9",
         "B": "10",
@@ -121,7 +121,7 @@
     {
       "topic": "Temel Kavramlar",
       "difficulty": "Orta",
-      "question": "./Images/Temel Kavramlar/10.png",
+      "question": "./Images/Temel Kavramlar/10.PNG",
       "options": {
         "A": "18",
         "B": "20",
@@ -134,7 +134,7 @@
     {
       "topic": "Temel Kavramlar",
       "difficulty": "Orta",
-      "question": "./Images/Temel Kavramlar/11.png",
+      "question": "./Images/Temel Kavramlar/11.PNG",
       "options": {
         "A": "𝟓𝐚+ 𝟑 ",
         "B": "a.a + 2",
@@ -147,7 +147,7 @@
     {
       "topic": "Temel Kavramlar",
       "difficulty": "Orta",
-      "question": "./Images/Temel Kavramlar/12.png",
+      "question": "./Images/Temel Kavramlar/12.PNG",
       "options": {
         "A": "352",
         "B": "353",
@@ -160,7 +160,7 @@
     {
       "topic": "Temel Kavramlar",
       "difficulty": "Zor",
-      "question": "./Images/Temel Kavramlar/13.png",
+      "question": "./Images/Temel Kavramlar/13.PNG",
       "options": {
         "A": "I",
         "B": "III",
@@ -173,7 +173,7 @@
     {
       "topic": "Temel Kavramlar",
       "difficulty": "Zor",
-      "question": "./Images/Temel Kavramlar/14.png",
+      "question": "./Images/Temel Kavramlar/14.PNG",
       "options": {
         "A": "1",
         "B": "2",
@@ -186,7 +186,7 @@
     {
       "topic": "Temel Kavramlar",
       "difficulty": "Zor",
-      "question": "./Images/Temel Kavramlar/15.png",
+      "question": "./Images/Temel Kavramlar/15.PNG",
       "options": {
         "A": "160",
         "B": "170",
@@ -199,7 +199,7 @@
     {
       "topic": "Temel Kavramlar",
       "difficulty": "Zor",
-      "question": "./Images/Temel Kavramlar/16.png",
+      "question": "./Images/Temel Kavramlar/16.PNG",
       "options": {
         "A": "90",
         "B": "92",
@@ -212,7 +212,7 @@
     {
       "topic": "Temel Kavramlar",
       "difficulty": "Zor",
-      "question": "./Images/Temel Kavramlar/17.png",
+      "question": "./Images/Temel Kavramlar/17.PNG",
       "options": {
         "A": "118",
         "B": "119",
@@ -225,7 +225,7 @@
     {
       "topic": "Temel Kavramlar",
       "difficulty": "Zor",
-      "question": "./Images/Temel Kavramlar/18.png",
+      "question": "./Images/Temel Kavramlar/18.PNG",
       "options": {
         "A": "a çift ise c de çifttir.",
         "B": "a çift ise d de çifttir",
@@ -238,7 +238,7 @@
     {
       "topic": "Bölme Bölünebilme",
       "difficulty": "Kolay",
-      "question": "./Images/Bölme Bölünebilme/1.png",
+      "question": "./Images/Bölme Bölünebilme/1.PNG",
       "options": {
         "A": "137",
         "B": "2502",
@@ -251,7 +251,7 @@
     {
       "topic": "Bölme Bölünebilme",
       "difficulty": "Kolay",
-      "question": "./Images/Bölme Bölünebilme/2.png",
+      "question": "./Images/Bölme Bölünebilme/2.PNG",
       "options": {
         "A": "I",
         "B": "III",
@@ -264,7 +264,7 @@
     {
       "topic": "Bölme Bölünebilme",
       "difficulty": "Kolay",
-      "question": "./Images/Bölme Bölünebilme/3.png",
+      "question": "./Images/Bölme Bölünebilme/3.PNG",
       "options": {
         "A": "0",
         "B": "1",
@@ -277,7 +277,7 @@
     {
       "topic": "Bölme Bölünebilme",
       "difficulty": "Kolay",
-      "question": "./Images/Bölme Bölünebilme/5.png",
+      "question": "./Images/Bölme Bölünebilme/5.PNG",
       "options": {
         "A": "1727",
         "B": "8250",
@@ -290,7 +290,7 @@
     {
       "topic": "Bölme Bölünebilme",
       "difficulty": "Kolay",
-      "question": "./Images/Bölme Bölünebilme/4.png",
+      "question": "./Images/Bölme Bölünebilme/4.PNG",
       "options": {
         "A": "12",
         "B": "18",
@@ -303,7 +303,7 @@
     {
       "topic": "Bölme Bölünebilme",
       "difficulty": "Kolay",
-      "question": "./Images/Bölme Bölünebilme/6.png",
+      "question": "./Images/Bölme Bölünebilme/6.PNG",
       "options": {
         "A": "0",
         "B": "1",
@@ -316,7 +316,7 @@
     {
       "topic": "Bölme Bölünebilme",
       "difficulty": "Orta",
-      "question": "./Images/Bölme Bölünebilme/7.png",
+      "question": "./Images/Bölme Bölünebilme/7.PNG",
       "options": {
         "A": "12",
         "B": "20",
@@ -329,7 +329,7 @@
     {
       "topic": "Bölme Bölünebilme",
       "difficulty": "Orta",
-      "question": "./Images/Bölme Bölünebilme/8.png",
+      "question": "./Images/Bölme Bölünebilme/8.PNG",
       "options": {
         "A": "3",
         "B": "5",
@@ -342,7 +342,7 @@
     {
       "topic": "Bölme Bölünebilme",
       "difficulty": "Orta",
-      "question": "./Images/Bölme Bölünebilme/9.png",
+      "question": "./Images/Bölme Bölünebilme/9.PNG",
       "options": {
         "A": "120",
         "B": "138",
@@ -355,7 +355,7 @@
     {
       "topic": "Bölme Bölünebilme",
       "difficulty": "Orta",
-      "question": "./Images/Bölme Bölünebilme/10.png",
+      "question": "./Images/Bölme Bölünebilme/10.PNG",
       "options": {
         "A": "4",
         "B": "5",
@@ -368,7 +368,7 @@
     {
       "topic": "Bölme Bölünebilme",
       "difficulty": "Orta",
-      "question": "./Images/Bölme Bölünebilme/11.png",
+      "question": "./Images/Bölme Bölünebilme/11.PNG",
       "options": {
         "A": "3",
         "B": "4",
@@ -381,7 +381,7 @@
     {
       "topic": "Bölme Bölünebilme",
       "difficulty": "Orta",
-      "question": "./Images/Bölme Bölünebilme/12.png",
+      "question": "./Images/Bölme Bölünebilme/12.PNG",
       "options": {
         "A": "6",
         "B": "8",
@@ -394,7 +394,7 @@
     {
       "topic": "Bölme Bölünebilme",
       "difficulty": "Zor",
-      "question": "./Images/Bölme Bölünebilme/13.png",
+      "question": "./Images/Bölme Bölünebilme/13.PNG",
       "options": {
         "A": "4",
         "B": "5",
@@ -407,7 +407,7 @@
     {
       "topic": "Bölme Bölünebilme",
       "difficulty": "Zor",
-      "question": "./Images/Bölme Bölünebilme/14.png",
+      "question": "./Images/Bölme Bölünebilme/14.PNG",
       "options": {
         "A": "4",
         "B": "5",
@@ -420,7 +420,7 @@
     {
       "topic": "Bölme Bölünebilme",
       "difficulty": "Zor",
-      "question": "./Images/Bölme Bölünebilme/15.png",
+      "question": "./Images/Bölme Bölünebilme/15.PNG",
       "options": {
         "A": "84",
         "B": "95",
@@ -433,7 +433,7 @@
     {
       "topic": "Bölme Bölünebilme",
       "difficulty": "Zor",
-      "question": "./Images/Bölme Bölünebilme/16.png",
+      "question": "./Images/Bölme Bölünebilme/16.PNG",
       "options": {
         "A": "8",
         "B": "9",
@@ -446,7 +446,7 @@
     {
       "topic": "Bölme Bölünebilme",
       "difficulty": "Zor",
-      "question": "./Images/Bölme Bölünebilme/17.png",
+      "question": "./Images/Bölme Bölünebilme/17.PNG",
       "options": {
         "A": "4",
         "B": "5",
@@ -459,7 +459,7 @@
     {
       "topic": "Bölme Bölünebilme",
       "difficulty": "Zor",
-      "question": "./Images/Bölme Bölünebilme/18.png",
+      "question": "./Images/Bölme Bölünebilme/18.PNG",
       "options": {
         "A": "4",
         "B": "11",
