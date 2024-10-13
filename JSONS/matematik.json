@@ -1,0 +1,941 @@
+{
+  "test_name": "Matematik TYT",
+  "questions": [
+    {
+      "topic": "Temel Kavramlar",
+      "difficulty": "Kolay",
+      "question": "./Images/Temel Kavramlar/1.png",
+      "options": {
+        "A": "8",
+        "B": "6",
+        "C": "3",
+        "D": "1",
+        "E": "2"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Temel Kavramlar",
+      "difficulty": "Kolay",
+      "question": "./Images/Temel Kavramlar/2.png",
+      "options": {
+        "A": "0",
+        "B": "2/3",
+        "C": "1",
+        "D": "2",
+        "E": "3"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "topic": "Temel Kavramlar",
+      "difficulty": "Kolay",
+      "question": "./Images/Temel Kavramlar/3.png",
+      "options": {
+        "A": "2852",
+        "B": "2345",
+        "C": "2783",
+        "D": "2335",
+        "E": "2790"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Temel Kavramlar",
+      "difficulty": "Kolay",
+      "question": "./Images/Temel Kavramlar/4.png",
+      "options": {
+        "A": "15",
+        "B": "13",
+        "C": "30",
+        "D": "24",
+        "E": "22"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "topic": "Temel Kavramlar",
+      "difficulty": "Kolay",
+      "question": "./Images/Temel Kavramlar/5.png",
+      "options": {
+        "A": "17",
+        "B": "16",
+        "C": "15",
+        "D": "14",
+        "E": "13"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Temel Kavramlar",
+      "difficulty": "Kolay",
+      "question": "./Images/Temel Kavramlar/6.png",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "8",
+        "D": "10",
+        "E": "11"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "topic": "Temel Kavramlar",
+      "difficulty": "Orta",
+      "question": "./Images/Temel Kavramlar/4.png",
+      "options": {
+        "A": "0,001",
+        "B": "0,05",
+        "C": "0,1",
+        "D": "1",
+        "E": "1,5"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Temel Kavramlar",
+      "difficulty": "Orta",
+      "question": "./Images/Temel Kavramlar/8.png",
+      "options": {
+        "A": "47",
+        "B": "51",
+        "C": "59",
+        "D": "61",
+        "E": "65"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Temel Kavramlar",
+      "difficulty": "Orta",
+      "question": "./Images/Temel Kavramlar/9.png",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "12",
+        "E": "13"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Temel Kavramlar",
+      "difficulty": "Orta",
+      "question": "./Images/Temel Kavramlar/10.png",
+      "options": {
+        "A": "18",
+        "B": "20",
+        "C": "22",
+        "D": "24",
+        "E": "25"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Temel Kavramlar",
+      "difficulty": "Orta",
+      "question": "./Images/Temel Kavramlar/11.png",
+      "options": {
+        "A": "𝟓𝐚+ 𝟑 ",
+        "B": "a.a + 2",
+        "C": "a+1 / 2",
+        "D": "a.a.a + 6",
+        "E": "6a"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "topic": "Temel Kavramlar",
+      "difficulty": "Orta",
+      "question": "./Images/Temel Kavramlar/12.png",
+      "options": {
+        "A": "352",
+        "B": "353",
+        "C": "354",
+        "D": "355",
+        "E": "356"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Temel Kavramlar",
+      "difficulty": "Zor",
+      "question": "./Images/Temel Kavramlar/13.png",
+      "options": {
+        "A": "I",
+        "B": "III",
+        "C": "II",
+        "D": "I,III",
+        "E": "Hepsi"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Temel Kavramlar",
+      "difficulty": "Zor",
+      "question": "./Images/Temel Kavramlar/14.png",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "5"
+      },
+      "correct_answer": "E"
+    },
+    {
+      "topic": "Temel Kavramlar",
+      "difficulty": "Zor",
+      "question": "./Images/Temel Kavramlar/15.png",
+      "options": {
+        "A": "160",
+        "B": "170",
+        "C": "185",
+        "D": "220",
+        "E": "240"
+      },
+      "correct_answer": "E"
+    },
+    {
+      "topic": "Temel Kavramlar",
+      "difficulty": "Zor",
+      "question": "./Images/Temel Kavramlar/16.png",
+      "options": {
+        "A": "90",
+        "B": "92",
+        "C": "93",
+        "D": "95",
+        "E": "97"
+      },
+      "correct_answer": "E"
+    },
+    {
+      "topic": "Temel Kavramlar",
+      "difficulty": "Zor",
+      "question": "./Images/Temel Kavramlar/17.png",
+      "options": {
+        "A": "118",
+        "B": "119",
+        "C": "121",
+        "D": "123",
+        "E": "124"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Temel Kavramlar",
+      "difficulty": "Zor",
+      "question": "./Images/Temel Kavramlar/18.png",
+      "options": {
+        "A": "a çift ise c de çifttir.",
+        "B": "a çift ise d de çifttir",
+        "C": "b çift ise d tektir",
+        "D": "b tek ise d de tektir.",
+        "E": "a tek ise b çifttir."
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Bölme Bölünebilme",
+      "difficulty": "Kolay",
+      "question": "./Images/Bölme Bölünebilme/1.png",
+      "options": {
+        "A": "137",
+        "B": "2502",
+        "C": "3824",
+        "D": "46196",
+        "E": "580416"
+      },
+      "correct_answer": "E"
+    },
+    {
+      "topic": "Bölme Bölünebilme",
+      "difficulty": "Kolay",
+      "question": "./Images/Bölme Bölünebilme/2.png",
+      "options": {
+        "A": "I",
+        "B": "III",
+        "C": "I, II",
+        "D": "II, III",
+        "E": "I, II, III"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Bölme Bölünebilme",
+      "difficulty": "Kolay",
+      "question": "./Images/Bölme Bölünebilme/3.png",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "3",
+        "D": "5",
+        "E": "6"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Bölme Bölünebilme",
+      "difficulty": "Kolay",
+      "question": "./Images/Bölme Bölünebilme/5.png",
+      "options": {
+        "A": "1727",
+        "B": "8250",
+        "C": "64350",
+        "D": "59432",
+        "E": "808192"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "topic": "Bölme Bölünebilme",
+      "difficulty": "Kolay",
+      "question": "./Images/Bölme Bölünebilme/4.png",
+      "options": {
+        "A": "12",
+        "B": "18",
+        "C": "21",
+        "D": "23",
+        "E": "25"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Bölme Bölünebilme",
+      "difficulty": "Kolay",
+      "question": "./Images/Bölme Bölünebilme/6.png",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "4"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Bölme Bölünebilme",
+      "difficulty": "Orta",
+      "question": "./Images/Bölme Bölünebilme/7.png",
+      "options": {
+        "A": "12",
+        "B": "20",
+        "C": "32",
+        "D": "44",
+        "E": "51"
+      },
+      "correct_answer": "E"
+    },
+    {
+      "topic": "Bölme Bölünebilme",
+      "difficulty": "Orta",
+      "question": "./Images/Bölme Bölünebilme/8.png",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "9",
+        "E": "11"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Bölme Bölünebilme",
+      "difficulty": "Orta",
+      "question": "./Images/Bölme Bölünebilme/9.png",
+      "options": {
+        "A": "120",
+        "B": "138",
+        "C": "154",
+        "D": "175",
+        "E": "186"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Bölme Bölünebilme",
+      "difficulty": "Orta",
+      "question": "./Images/Bölme Bölünebilme/10.png",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7",
+        "E": "8"
+      },
+      "correct_answer": "E"
+    },
+    {
+      "topic": "Bölme Bölünebilme",
+      "difficulty": "Orta",
+      "question": "./Images/Bölme Bölünebilme/11.png",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "E": "7"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Bölme Bölünebilme",
+      "difficulty": "Orta",
+      "question": "./Images/Bölme Bölünebilme/12.png",
+      "options": {
+        "A": "6",
+        "B": "8",
+        "C": "10",
+        "D": "12",
+        "E": "14"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "topic": "Bölme Bölünebilme",
+      "difficulty": "Zor",
+      "question": "./Images/Bölme Bölünebilme/13.png",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7",
+        "E": "8"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Bölme Bölünebilme",
+      "difficulty": "Zor",
+      "question": "./Images/Bölme Bölünebilme/14.png",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7",
+        "E": "8"
+      },
+      "correct_answer": "E"
+    },
+    {
+      "topic": "Bölme Bölünebilme",
+      "difficulty": "Zor",
+      "question": "./Images/Bölme Bölünebilme/15.png",
+      "options": {
+        "A": "84",
+        "B": "95",
+        "C": "106",
+        "D": "110",
+        "E": "120"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Bölme Bölünebilme",
+      "difficulty": "Zor",
+      "question": "./Images/Bölme Bölünebilme/16.png",
+      "options": {
+        "A": "8",
+        "B": "9",
+        "C": "10",
+        "D": "11",
+        "E": "12"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Bölme Bölünebilme",
+      "difficulty": "Zor",
+      "question": "./Images/Bölme Bölünebilme/17.png",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7",
+        "E": "8"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Bölme Bölünebilme",
+      "difficulty": "Zor",
+      "question": "./Images/Bölme Bölünebilme/18.png",
+      "options": {
+        "A": "4",
+        "B": "11",
+        "C": "23",
+        "D": "28",
+        "E": "30"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Ebob Ekok",
+      "difficulty": "Kolay",
+      "question": "./Images/Ebob Ekok/1.PNG",
+      "options": {
+        "A": "I, II",
+        "B": "III, IV",
+        "C": "I, II, III",
+        "D": "Hepsi",
+        "E": "IV"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "topic": "Ebob Ekok",
+      "difficulty": "Kolay",
+      "question": "./Images/Ebob Ekok/2.PNG",
+      "options": {
+        "A": "ebob = 24, ekok = 144",
+        "B": "ebob = 24, ekok = 174",
+        "C": "ebob = 12, ekok = 144",
+        "D": "ebob = 19, ekok = 194",
+        "E": "ebob = 14, ekok = 74"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Ebob Ekok",
+      "difficulty": "Kolay",
+      "question": "./Images/Ebob Ekok/3.PNG",
+      "options": {
+        "A": "2<sup>3</sup>.3<sup>2</sup>",
+        "B": "2<sup>5</sup>.3<sup>4</sup>",
+        "C": "2<sup>2</sup>.5<sup>2</sup>",
+        "D": "2<sup>8</sup>.3<sup>6</sup>.7",
+        "E": "28.15<sup>2</sup>"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Ebob Ekok",
+      "difficulty": "Kolay",
+      "question": "./Images/Ebob Ekok/4.PNG",
+      "options": {
+        "A": "2<sup>8</sup>.3<sup>6</sup>",
+        "B": "28.15<sup>2</sup>",
+        "C": "2<sup>3</sup>.3<sup>3</sup>.6.9",
+        "D": "6<sup>3</sup>.3<sup>3</sup>.4<sup>3</sup>.9",
+        "E": "2<sup>3</sup>.3<sup>3</sup>.5<sup>2</sup>.7<sup>2</sup>"
+      },
+      "correct_answer": "E"
+    },
+    {
+      "topic": "Ebob Ekok",
+      "difficulty": "Kolay",
+      "question": "./Images/Ebob Ekok/5.PNG",
+      "options": {
+        "A": "3",
+        "B": "15",
+        "C": "8",
+        "D": "10",
+        "E": "5"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Ebob Ekok",
+      "difficulty": "Kolay",
+      "question": "./Images/Ebob Ekok/6.PNG",
+      "options": {
+        "A": "4",
+        "B": "9",
+        "C": "8",
+        "D": "12",
+        "E": "6"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "topic": "Ebob Ekok",
+      "difficulty": "Orta",
+      "question": "./Images/Ebob Ekok/7.PNG",
+      "options": {
+        "A": "a.b.c",
+        "B": "a<sup>2</sup>.b.c",
+        "C": "a<sup>2</sup>.b<sup>2</sup>.c",
+        "D": "(a.b.c)<sup>2</sup>",
+        "E": "(a.b)<sup>2</sup>"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "topic": "Ebob Ekok",
+      "difficulty": "Orta",
+      "question": "./Images/Ebob Ekok/8.PNG",
+      "options": {
+        "A": "1260",
+        "B": "1269",
+        "C": "1272",
+        "D": "1275",
+        "E": "1280"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Ebob Ekok",
+      "difficulty": "Orta",
+      "question": "./Images/Ebob Ekok/9.PNG",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "15",
+        "D": "18",
+        "E": "21"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Ebob Ekok",
+      "difficulty": "Orta",
+      "question": "./Images/Ebob Ekok/10.PNG",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "12",
+        "E": "13"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Ebob Ekok",
+      "difficulty": "Orta",
+      "question": "./Images/Ebob Ekok/11.PNG",
+      "options": {
+        "A": "15",
+        "B": "16",
+        "C": "17",
+        "D": "19",
+        "E": "18"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "topic": "Ebob Ekok",
+      "difficulty": "Orta",
+      "question": "./Images/Ebob Ekok/12.PNG",
+      "options": {
+        "A": "8",
+        "B": "10",
+        "C": "12",
+        "D": "15",
+        "E": "20"
+      },
+      "correct_answer": "E"
+    },
+    {
+      "topic": "Ebob Ekok",
+      "difficulty": "Zor",
+      "question": "./Images/Ebob Ekok/13.PNG",
+      "options": {
+        "A": "336",
+        "B": "340",
+        "C": "352",
+        "D": "357",
+        "E": "366"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Ebob Ekok",
+      "difficulty": "Zor",
+      "question": "./Images/Ebob Ekok/14.PNG",
+      "options": {
+        "A": "13",
+        "B": "16",
+        "C": "18",
+        "D": "20",
+        "E": "24"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Ebob Ekok",
+      "difficulty": "Zor",
+      "question": "./Images/Ebob Ekok/15.PNG",
+      "options": {
+        "A": "49",
+        "B": "45",
+        "C": "56",
+        "D": "72",
+        "E": "64"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "topic": "Ebob Ekok",
+      "difficulty": "Zor",
+      "question": "./Images/Ebob Ekok/16.PNG",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9",
+        "E": "10"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Ebob Ekok",
+      "difficulty": "Zor",
+      "question": "./Images/Ebob Ekok/17.PNG",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7",
+        "E": "8"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "topic": "Ebob Ekok",
+      "difficulty": "Zor",
+      "question": "./Images/Ebob Ekok/18.PNG",
+      "options": {
+        "A": "3",
+        "B": "6",
+        "C": "8",
+        "D": "11",
+        "E": "14"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Rasyonel Sayılar",
+      "difficulty": "Kolay",
+      "question": "./Images/Rasyonel Sayılar/1.PNG",
+      "options": {
+        "A": "5 / 6",
+        "B": "1",
+        "C": "4 / 3",
+        "D": "5 / 3 ",
+        "E": "2"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Rasyonel Sayılar",
+      "difficulty": "Kolay",
+      "question": "./Images/Rasyonel Sayılar/2.PNG",
+      "options": {
+        "A": "1",
+        "B": "16 / 15",
+        "C": "8 / 5",
+        "D": "12 / 5",
+        "E": "2"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Rasyonel Sayılar",
+      "difficulty": "Kolay",
+      "question": "./Images/Rasyonel Sayılar/3.PNG",
+      "options": {
+        "A": "1",
+        "B": "3 / 2",
+        "C": "2",
+        "D": "7 / 2",
+        "E": "3"
+      },
+      "correct_answer": "E"
+    },
+    {
+      "topic": "Rasyonel Sayılar",
+      "difficulty": "Kolay",
+      "question": "./Images/Rasyonel Sayılar/4.PNG",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8",
+        "E": "9"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Rasyonel Sayılar",
+      "difficulty": "Kolay",
+      "question": "./Images/Rasyonel Sayılar/5.PNG",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "I, III",
+        "D": "II , III",
+        "E": "I , II, III"
+      },
+      "correct_answer": "E"
+    },
+    {
+      "topic": "Rasyonel Sayılar",
+      "difficulty": "Kolay",
+      "question": "./Images/Rasyonel Sayılar/6.PNG",
+      "options": {
+        "A": "12",
+        "B": "15",
+        "C": "18",
+        "D": "20",
+        "E": "24"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "topic": "Rasyonel Sayılar",
+      "difficulty": "Orta",
+      "question": "./Images/Rasyonel Sayılar/7.PNG",
+      "options": {
+        "A": "Tanımsız",
+        "B": "3 / 2",
+        "C": "5 / 4",
+        "D": "5",
+        "E": "6"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "topic": "Rasyonel Sayılar",
+      "difficulty": "Orta",
+      "question": "./Images/Rasyonel Sayılar/8.PNG",
+      "options": {
+        "A": "19 / 5",
+        "B": "20 / 3",
+        "C": "21 / 4",
+        "D": "6",
+        "E": "7"
+      },
+      "correct_answer": "E"
+    },
+    {
+      "topic": "Rasyonel Sayılar",
+      "difficulty": "Orta",
+      "question": "./Images/Rasyonel Sayılar/9.PNG",
+      "options": {
+        "A": "5 / 6",
+        "B": "11 / 12",
+        "C": "1",
+        "D": "13 / 12",
+        "E": "7 / 6"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Rasyonel Sayılar",
+      "difficulty": "Orta",
+      "question": "./Images/Rasyonel Sayılar/10.PNG",
+      "options": {
+        "A": "A / 3",
+        "B": "A / 2",
+        "C": "1+A",
+        "D": "2-A",
+        "E": "3-A"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Rasyonel Sayılar",
+      "difficulty": "Orta",
+      "question": "./Images/Rasyonel Sayılar/11.PNG",
+      "options": {
+        "A": "-1",
+        "B": "- 1/2",
+        "C": "3 / 2",
+        "D": "2",
+        "E": "5 / 2"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Rasyonel Sayılar",
+      "difficulty": "Orta",
+      "question": "./Images/Rasyonel Sayılar/12.PNG",
+      "options": {
+        "A": "3",
+        "B": "6",
+        "C": "9",
+        "D": "12",
+        "E": "15"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Rasyonel Sayılar",
+      "difficulty": "Zor",
+      "question": "./Images/Rasyonel Sayılar/13.PNG",
+      "options": {
+        "A": "1 / 4",
+        "B": "17 / 4",
+        "C": "17 / 2",
+        "D": "9",
+        "E": "19 / 2"
+      },
+      "correct_answer": "E"
+    },
+    {
+      "topic": "Rasyonel Sayılar",
+      "difficulty": "Zor",
+      "question": "./Images/Rasyonel Sayılar/14.PNG",
+      "options": {
+        "A": "1 / 2",
+        "B": "2 / 3",
+        "C": "3 / 4",
+        "D": "1",
+        "E": "5 / 2"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Rasyonel Sayılar",
+      "difficulty": "Zor",
+      "question": "./Images/Rasyonel Sayılar/15.PNG",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "4"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Rasyonel Sayılar",
+      "difficulty": "Zor",
+      "question": "./Images/Rasyonel Sayılar/16.PNG",
+      "options": {
+        "A": "1 / 2",
+        "B": "2 / 5",
+        "C": "3 / 10",
+        "D": "11 / 20",
+        "E": "13 / 20"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "topic": "Rasyonel Sayılar",
+      "difficulty": "Zor",
+      "question": "./Images/Rasyonel Sayılar/17.PNG",
+      "options": {
+        "A": "36",
+        "B": "41",
+        "C": "54",
+        "D": "60",
+        "E": "67"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Rasyonel Sayılar",
+      "difficulty": "Zor",
+      "question": "./Images/Rasyonel Sayılar/18.PNG",
+      "options": {
+        "A": "y < z < x",
+        "B": "x < z < y",
+        "C": "x < y < z",
+        "D": "y < x < z",
+        "E": "z < y < x"
+      },
+      "correct_answer": "B"
+    }
+  ]
+}

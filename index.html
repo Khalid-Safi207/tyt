@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAFI || TYT</title>
+    <!--  Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- CSS File -->
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div class="s-container">
+        <header>
+            <div class="ders">
+                <span class="ders-name">Matematik</span>
+            </div>
+            <div class="timer-con">
+                <span class="timer">12:00</span><i class="fa-solid fa-stopwatch"></i>
+            </div>
+        </header>
+        <main>
+            <div class="settings">
+            
+            <label>Konular</label>
+            <select id="konular">
+                <option value="Temel Kavramlar">Temel Kavramlar</option>
+                <option value="Bölme Bölünebilme">Bölme  Bölünebilme</option>
+                <option value="Ebob Ekok">Ebob Ekok</option>
+                <option value="Rasyonel Sayılar">Rasyonel Sayılar</option>
+            </select>
+            <label>Süre</label>
+            
+            <select id="time">
+                <option value="12">12dk</option>
+                <option value="15">15dk</option>
+                <option value="17">17dk</option>
+            </select>
+        </div>
+        <button class="baslat" id="baslat">Başlat</button>
+         <div class="con"> 
+                </div>
+        </main>
+
+    </div>
+    <script src="./main.js"></script>
+</body>
+
+</html>
