@@ -51,7 +51,7 @@ function baslatSonra() {
 }
 
 function addSoruForArray() {
-    fetch("./JSONS/matematik.json").then((res) => res.json()).then((data) => {
+    fetch("./JSONS/tarih.json").then((res) => res.json()).then((data) => {
         for (soru in data.questions) {
             if (konuValue == data.questions[soru].topic) {
                 sorular.push(data.questions[soru]);
@@ -86,7 +86,7 @@ function getSoruFromArray() {
 
         <span class="${diff}">${sorular[soruNum].difficulty}</span>
         <div class="soru-con">
-        <img class="soru" src="${sorular[soruNum].question}">
+        <span>${sorular[soruNum].question}</span>
         </div>
             <div class="answers">
                 <div id="A" onclick="checkSoru(this.id)">A-) ${sorular[soruNum].options.A}</div>
@@ -101,7 +101,7 @@ function getSoruFromArray() {
 
 function checkSoru(id) {
 
-    fetch("./JSONS/matematik.json").then((res) => res.json()).then((data) => {
+    fetch("./JSONS/tarih.json").then((res) => res.json()).then((data) => {
         if (id == sorular[soruNum].correct_answer) {
             dogruSes.play();
             document.getElementById(id).style.backgroundColor = "#00ff00";
